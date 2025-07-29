@@ -1,11 +1,7 @@
-
-
 <h1 align="center"> Faiss向量数据库</h1>
 <p align="center">
   <a href="README.md"><strong>English</strong></a> | <strong>简体中文</strong>
 </p>
-
-
 
 
 
