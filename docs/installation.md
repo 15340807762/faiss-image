@@ -40,7 +40,7 @@ conda init --all
 创建虚拟环境
 
 ```
-conda create -n facenet python=3.9
+conda create -n faiss python=3.10
 ```
 
 ## **三、源码下载**
